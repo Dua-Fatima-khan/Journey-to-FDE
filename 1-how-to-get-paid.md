@@ -4,7 +4,7 @@ Source: [The AI Agent Factory](agentfactory.panaversity.org/docs/how-to-get-paid
 
 ---
 
-## 1. The problem (start here)
+## 1. The problem 
 
 Two things are happening at once:
 
