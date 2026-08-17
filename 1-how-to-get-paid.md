@@ -1,4 +1,4 @@
-# How to Get Paid in the Agentic AI Era — Teaching Notes
+# How to Get Paid in the Agentic AI Era
 *A beginner-friendly guide to the Vendor-Neutral Vertical FDE roadmap*
 Source: [The AI Agent Factory](agentfactory.panaversity.org/docs/how-to-get-paid-agentic-ai-era)
 
